@@ -1,6 +1,6 @@
 # WVR-Glove-Unreal-Engine-5.1-testing-ground
 # Unreal Engine 5 testing ground
-This repository contains the the unreal engine 5.1 project to try out the [WVR Glove]().
+This repository contains the the unreal engine 5.1 project to try out the [WVR Glove](https://github.com/Wbiu/WVR-GLOVE-Firmware).
 
 > **Note** : No VR component was used in this project and the whole grabbing and holding mechanism has to be build from the ground up.
 
