@@ -44,3 +44,5 @@ By turning the **FFb Force** value up little by little, starting from 100, and i
 > **Note** : this project is an early testing stage, so some unwanted behavior might occur.
 
 Have fun playing ÒwÓ :)
+![UE5 Greif Test _Trim](https://user-images.githubusercontent.com/112129893/228447222-9a7d7522-b9ad-4f0b-85b0-2efa980ad3ed.gif)
+
